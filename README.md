@@ -1,1 +1,2 @@
-# CN_practicals
+# CN_practicals 
+list of computer networks practicals.
